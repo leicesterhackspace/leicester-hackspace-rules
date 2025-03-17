@@ -1,0 +1,32 @@
+# Hackspace relevant terms
+hackspace
+hackspaces
+nottinghack
+nottinghack's
+mechatronic
+mechatronics
+
+# Tech Stuff
+arduino
+quadcopter
+microbit
+
+# Code
+sass
+dartsass
+frontmatter
+pagefind
+xmark
+errorf
+shortcode
+shortcodes
+webserver
+markdownify
+
+# Names
+Creat       # Creat-a-Con
+Faircharm
+Divya
+Ruffels
+
+# Misc

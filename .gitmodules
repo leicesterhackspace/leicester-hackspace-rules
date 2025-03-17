@@ -1,0 +1,3 @@
+[submodule "themes/leicester-hackspace-rtfm-hugo"]
+	path = themes/leicester-hackspace-rtfm-hugo
+	url = https://github.com/leicesterhackspace/leicester-hackspace-rtfm-hugo
