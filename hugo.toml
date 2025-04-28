@@ -6,6 +6,7 @@ theme = 'leicester-hackspace-rtfm-hugo'
 [params]
 siteImage = "/img/hackspace-logo-inverted.svg"
 siteFavIcon = "/img/hackspace-logo.svg"
+siteSourceLink = "https://github.com/leicesterhackspace/leicester-hackspace-rules"
 
 [[menus.main]]
 name = 'Definitions'
