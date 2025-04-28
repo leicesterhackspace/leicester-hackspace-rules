@@ -13,7 +13,7 @@ Sometimes, even when you're being careful, tools and equipment can break. You wi
 are using is damaged, all tools wear and mistakes will always happen. We do however require that members report any
 broken equipment, whether you have broken it or not. You may receive a warning if you are caught covering up damaged
 equipment.  
-You can report broken equipment anonymously [here](Anonymouse Report Form), or by emailing
+You can report broken equipment anonymously here: https://forms.gle/mPVbNaJvStkUhKR59, or by emailing
 [broken@leicesterhackspace.org.uk](mailto://broken@leicesterhackspace.org.uk).
 
 Some equipment can in particular a safety risk, or complex to use correctly. For this equipment we do not allow members
