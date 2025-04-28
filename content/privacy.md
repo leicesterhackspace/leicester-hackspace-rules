@@ -90,7 +90,7 @@ Wilmslow
 Cheshire  
 SK9 5AF
 
-You can also contact them using their telephone number (0303 123 1113) or via their website at 
+You can also contact them using their telephone number ([0303 123 1113](tel:0303-123-1113)) or via their website at 
 [https://www.ico.org.uk](https://www.ico.org.uk).
 
 ## Section Five - Further Information on the Use of Your Data:

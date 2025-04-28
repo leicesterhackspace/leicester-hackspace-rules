@@ -12,10 +12,10 @@ box, then you can label it "Do Not Hack" alongside your full name and the date. 
 so it does not prevent any other members from using any of the equipment.  
 If you fail to label your project, then it may be mistaken for being hackable.
 
-**Proposed rule to be discussed at the general meeting April 2025:**  
+**Optional rule to be discussed at the general meeting April 2025:**  
 You may not store projects outside a project box for more than 6 months without fortnightly work. We do not have the
 space available. Labelled projects will be checked regularly, and you will be asked to remove any expired projects  
-**End Proposed rule to be discussed at the general meeting April 2025:**
+**End optional rule to be discussed at the general meeting April 2025**
 
 If you need to store equipment or projects at the hackspace more permanently, then you can ask the directors for a
 Project Box. To be entitled to a project box, you must pay at least £10 in membership dues.

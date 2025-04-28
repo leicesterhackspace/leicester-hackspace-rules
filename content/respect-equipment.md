@@ -6,8 +6,8 @@ date = 2025-03-16T22:29:01Z
 
 Members are encouraged to use the tools and equipment provided at the space. They are, after all, here to be used.
 Members must treat all equipment at the Hackspace with respect. If you misuse and break any equipment then we quite
-often can't replace it. Some equipment is also on loan from members (See [7 - Donations and loans]), we expect you to
-take extra care with these.
+often can't replace it. Some equipment is also on loan from members (See 
+[7 - Donations and loans]({{< ref "donations.md" >}}) ), we expect you to take extra care with these.
 
 Sometimes, even when you're being careful, tools and equipment can break. You will not be in trouble if equipment you
 are using is damaged, all tools wear and mistakes will always happen. We do however require that members report any
