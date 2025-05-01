@@ -7,7 +7,7 @@ date = 2025-03-16T22:29:01Z
 **Health & Safety is the responsibility of every member of Leicester Hackspace.** It is the duty of each member to make 
 sure they are safe and not endangering the people around them.
 
-When in doubt about another member's safety do approach them to discuss it, or raise it with the `Safety Team`. Every
+When in doubt about another member's safety do approach them to discuss it, or raise it with the directors. Every
 Hackspace member has the right and responsibility to challenge unsafe behaviours.
 
 ## Equipment

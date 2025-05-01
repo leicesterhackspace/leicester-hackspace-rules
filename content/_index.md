@@ -32,3 +32,7 @@ space.
 
 ## [7: Donations and Loans]({{< ref "donations.md" >}}) {.header}
 We still have limited space, we cannot accept every donation to the space.
+
+## Changelog {.header}
+Changes to these rules will be tracked on [Github](https://github.com/leicesterhackspace/leicester-hackspace-rules),
+where you can also find the full history.

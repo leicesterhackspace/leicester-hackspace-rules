@@ -68,7 +68,7 @@ flowchart TD
     bAppealDiscuss{Directors<br/>hold n-1 vote<br/>on upholding<br/>ban}
     bRepeal[Ban repealed, member informed & reinstated]
     bDowngrade[Ban downgraded to formal warning, member informed & reinstated]
-    bUpheld[Warning upheld, member informed]
+    bUpheld[Ban upheld, member informed]
     
     ban --> bAction --> bNotify --> bAppeal
     bAppeal -- Appealed --> bAppealMeeting --> bAppealDiscuss
