@@ -10,7 +10,7 @@ the guest, their safety, and their actions at the Hackspace.
 "Guests" include a member's: children, friends, social workers, disability support, assistants, and pets. Please do not
 leave any of these unattended in the Hackspace. They are your responsibility and must be attended at all times.
 
-Guests are not expected to pay anything for access to the space, unless they wish to attend the hackspace in their own 
+Guests are not expected to pay anything for access to the space, unless they wish to attend the hackspace in their own
 time, or make semi-frequent use of the equipment at the space.
 
 Guests will not be allowed to use any equipment that requires an induction. Including, but not limited to, the 3d

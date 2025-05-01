@@ -181,7 +181,7 @@ We encourage you to raise a complaint for breaking any Hackspace rules, includin
 only be used in severe cases where other people are at risk of harm.**
 
 Whilst investigating a complaint, it may be necessary for the directors to have meetings with the complainant, and the
-complained about member. In these cases, no more than 2 directors per attending member may be present for these 
+complained about member. In these cases, no more than 2 directors per attending member may be present for these
 meetings, the attending member will be entitled to a friend to join for support, and minutes will be recorded and sent
 to the attending member.
 

@@ -13,7 +13,7 @@ Anything donated to the Hackspace has to be approved by the directors first.
 If you wish to donate something, please reach out to us on discord on the #donations channel or come find any of the
 directors at the space.
 
-If you have some equipment you want to make available to the members of the Hackspace, but do not want to part with it 
+If you have some equipment you want to make available to the members of the Hackspace, but do not want to part with it
 forever, then you can offer it to the space under indefinite loan.  
 Equipment will be loaned at your own risk, we cannot promise that loaned equipment won't be damaged, but we can promise
 that we will do our best to maintain it and fix any issues we encounter with it.
