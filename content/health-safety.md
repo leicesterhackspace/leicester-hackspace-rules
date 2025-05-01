@@ -26,7 +26,7 @@ glasses.
 An effort is made to ensure Safety equipment (PPE) is readily available within the wood working area; a range of PPE
 such as goggles, gloves, face masks, disposable ear plugs, and other such items are available for use by all members and
 topped up on a semiregular basis. Please ensure PPE is used. If it appears to be running low, you can help by informing
-the directors at [info@leicesterhackspace.org.uk](mailto://info@leicesterhackspace.org.uk).
+the directors at [info@leicesterhackspace.org.uk](mailto:info@leicesterhackspace.org.uk).
 
 ## Ladders
 > Did you know, falling from a ladder is the leading cause of injury and death in worksites?
@@ -40,7 +40,7 @@ For high shelves, you may use the stepladder that is kept by the front door.
 We have some members with severe allergies to nuts. As of such we do not allow any nuts, or nut based products,
 at the hackspace premises.  
 If you have a similar severe allergy, please let us know at
-[info@leicesterhackspace.org.uk](mailto://info@leicesterhackspace.org.uk) and we will be happy to accommodate you.
+[info@leicesterhackspace.org.uk](mailto:info@leicesterhackspace.org.uk) and we will be happy to accommodate you.
 
 ## First Aid
 A First Aid Box is kept stocked and checked periodically. Please ensure you are familiar with where this is stored -

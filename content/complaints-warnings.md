@@ -80,7 +80,7 @@ flowchart TD
 
 ### Appeals
 If a member feels that they have unfairly received a warning or a ban, then they can appeal within 30 days by writing to
-[appeals@leicesterhackspace.org.uk](mailto://appeals.leicesterhackspace.org.uk) detailing their side of the warning and
+[appeals@leicesterhackspace.org.uk](mailto:appeals.leicesterhackspace.org.uk) detailing their side of the warning and
 why they think it was unjust.  
 This will then be reviewed by the directors, who will N-1 vote on whether to uphold the warning/ban.
 
@@ -89,7 +89,7 @@ As Leicester Hackspace is intended to be a safe space for all members, we take c
 thorough process to ensure that they are handled correctly.
 
 A complaint can be made by any member or non-member by emailing
-[complaints@leicesterhackspace.org.uk](mailto://complaints.leicesterhackspace.org.uk). You can also choose to directly
+[complaints@leicesterhackspace.org.uk](mailto:complaints.leicesterhackspace.org.uk). You can also choose to directly
 email any or multiple directors using their email addresses, listed [Here](Wiki Link TODO).
 
 ***The following is lifted from Nottinghack's rules, the flow charts still need modifications to fit out process***

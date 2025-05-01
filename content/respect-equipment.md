@@ -14,7 +14,7 @@ are using is damaged, all tools wear and mistakes will always happen. We do howe
 broken equipment, whether you have broken it or not. You may receive a warning if you are caught covering up damaged
 equipment.  
 You can report broken equipment anonymously here: https://forms.gle/mPVbNaJvStkUhKR59, or by emailing
-[broken@leicesterhackspace.org.uk](mailto://broken@leicesterhackspace.org.uk).
+[broken@leicesterhackspace.org.uk](mailto:broken@leicesterhackspace.org.uk).
 
 Some equipment can in particular a safety risk, or complex to use correctly. For this equipment we do not allow members
 to use them without first going through an induction. You can find which equipment require an induction, as well as who
@@ -58,4 +58,4 @@ unattended until it is finished. You must be present at the Hackspace whilst the
 abandon the machine before it is finished then you may get a warning.
 
 Any damage to these machines due to the code you run will be forgiven and repaired as long as you let us know about it
-([broken@leicesterhackspace.org.uk](mailto://broken@leicesterhackspace.org.uk)).
+([broken@leicesterhackspace.org.uk](mailto:broken@leicesterhackspace.org.uk)).

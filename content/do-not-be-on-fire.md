@@ -14,7 +14,7 @@ there will likely be someone willing to assist.
 Members are also responsible for their own Personal Protection Equipment (PPE) as required for using any equipment
 provided by the Hackspace. We will make an effort to provide PPE required for the equipment we have, however, as PPE can
 be misplaced by other members we do not guarantee that it will always be available. If you notice we are missing some
-required PPE, please let us know at [info@leicesterhackspace.org.uk](mailto://info@leicesterhackspace.org.uk).
+required PPE, please let us know at [info@leicesterhackspace.org.uk](mailto:info@leicesterhackspace.org.uk).
 
 Whilst you shouldn't normally try to physically intervene, members should make an effort to assist when they notice
 other members using equipment unsafely.
