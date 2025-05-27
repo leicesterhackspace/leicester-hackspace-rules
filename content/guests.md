@@ -20,6 +20,6 @@ If a non-member wishes to visit but does not have a current member to accompany 
 open hack nights on Tuesday evenings. You can find information about visiting on
 [our website](https://leicesterhackspace.org.uk).
 
-Members should not otherwise let non-members they do not into the space. Feel free to challenge people to authenticate
+Members should not otherwise let non-members they do not know into the space. Feel free to challenge people to authenticate
 with the front door if you don't believe they are a member. You are under no obligation to answer the door if the
 doorbell rings.

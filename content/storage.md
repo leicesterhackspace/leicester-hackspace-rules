@@ -18,7 +18,7 @@ You may not store projects outside a project box for more than 3 months without 
 have the space available. Labelled projects will be checked regularly, and you will be asked to remove any expired
 projects. This does not apply to infrastructure projects (I.E, projects that are commissioned by the directors for the
 benefit of the hackspace).  
-Any projects that remain at the space after having been requestion for removal for more than 2 weeks will be disposed
+Any projects that remain at the space after having been requested for removal for more than 2 weeks will be disposed
 of.
 
 If you need to store equipment or projects at the hackspace more permanently, then you can ask the directors for a
