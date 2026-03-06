@@ -92,8 +92,6 @@ A complaint can be made by any member or non-member by emailing
 [complaints@leicesterhackspace.org.uk](mailto:complaints.leicesterhackspace.org.uk). You can also choose to directly
 email any or multiple directors using their email addresses, listed [Here](Wiki Link TODO).
 
-***The following is lifted from Nottinghack's rules, the flow charts still need modifications to fit out process***
-
 Complaints fall into one of three categories, set out in the sections below. These are given in priority order, and a
 complaint falls into the first category it can fit into.
 
