@@ -56,7 +56,7 @@ than scheduled.
 Posters for our Near Miss and Accident reporting form can be found around the space. The posters contain a QR code which
 you can scan from your phone.
 
-You can access the form here: https://forms.gle/5o7ijTGJBsLeb9Mg6
+You can access the form here: https://forms.gle/zphTJwmPHx9tquv56
 
 When an accident is reported, the directors are notified immediately. This ensures we are able to make necessary
 improvements as quickly as possible.
