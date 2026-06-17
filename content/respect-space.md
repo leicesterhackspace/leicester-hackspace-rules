@@ -16,3 +16,6 @@ get cleaned.
 
 Members cannot just leave their projects and possessions at the space. Please see
 [6 - storage]({{< ref "/storage.md" >}}) for rules of storing possessions and projects at the space.
+
+We do not allow smoking or vaping of any kind inside the hackspace. Please smoke outside, away from the fire
+escape/exits and ensure you fully extinguish cigarettes and clear up after yourself.
